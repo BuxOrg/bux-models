@@ -2,13 +2,17 @@ package buxmodels
 
 import "github.com/BuxOrg/bux-models/common"
 
+// Xpub is a model that represents a xpub.
 type Xpub struct {
-	// Base model
+	// Model is a common model that contains common fields for all models.
 	Model common.Model
 
-	// Model specific fields
-	ID              string `json:"id"`
-	CurrentBalance  uint64 `json:"current_balance"`
+	// ID is a xpub id.
+	ID string `json:"id"`
+	// CurrentBalance is a xpub's current balance.
+	CurrentBalance uint64 `json:"current_balance"`
+	// NextInternalNum is a next internal num.
 	NextInternalNum uint32 `json:"next_internal_num"`
+	// NextExternalNum is a next external num.
 	NextExternalNum uint32 `json:"next_external_num"`
 }

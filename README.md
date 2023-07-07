@@ -4,13 +4,12 @@
 [![Release](https://img.shields.io/github/release-pre/BuxOrg/bux-models.svg?logo=github&style=flat&v=1)](https://github.com/BuxOrg/bux-models/releases)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/BuxOrg/bux-models/run-tests.yml?branch=master&logo=github&v=1)](https://github.com/BuxOrg/bux-models/actions)
 [![Report](https://goreportcard.com/badge/github.com/BuxOrg/bux-models?style=flat&v=1)](https://goreportcard.com/report/github.com/BuxOrg/bux-models)
-[![codecov](https://codecov.io/gh/BuxOrg/bux-models/branch/master/graph/badge.svg?v=1)](https://codecov.io/gh/BuxOrg/bux-models)
 [![Mergify Status](https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/BuxOrg/bux-models&style=flat&v=1)](https://mergify.io)
 [![Go](https://img.shields.io/github/go-mod/go-version/BuxOrg/bux-models?v=1)](https://golang.org/)
 <br>
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
 [![Makefile Included](https://img.shields.io/badge/Makefile-Supported%20-brightgreen?=flat&logo=probot&v=1)](Makefile)
-[![Sponsor](https://img.shields.io/badge/sponsor-mrz1836-181717.svg?logo=github&style=flat&v=2)](https://github.com/sponsors/BuxOrg)
+[![Sponsor](https://img.shields.io/badge/sponsor-BuxOrg-181717.svg?logo=github&style=flat&v=2)](https://github.com/sponsors/BuxOrg)
 [![Donate](https://img.shields.io/badge/donate-bitcoin-ff9900.svg?logo=bitcoin&style=flat&v=2)](https://gobitcoinsv.com/#sponsor?utm_source=github&utm_medium=sponsor-link&utm_campaign=bux-models&utm_term=bux-models&utm_content=bux-models)
 
 <br/>

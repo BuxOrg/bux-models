@@ -1,3 +1,4 @@
+// Package buxerrors contains errors that can be returned by bux-server api
 package buxerrors
 
 import "errors"

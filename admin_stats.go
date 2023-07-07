@@ -8,9 +8,9 @@ type AdminStats struct {
 	Destinations int64 `json:"destinations"`
 	// PaymailAddresses is a total number of paymail addresses.
 	PaymailAddresses int64 `json:"paymail_addresses"`
-	// Transactions is a total number of comitted transactions.
+	// Transactions is a total number of committed transactions.
 	Transactions int64 `json:"transactions"`
-	// TransactionsPerDay is a total number of comitted transactions per day.
+	// TransactionsPerDay is a total number of committed transactions per day.
 	TransactionsPerDay map[string]interface{} `json:"transactions_per_day"`
 	// Utxos is a total number of utxos.
 	Utxos int64 `json:"utxos"`

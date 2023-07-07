@@ -6,6 +6,20 @@ import (
 	"github.com/BuxOrg/bux-models/common"
 )
 
+const (
+	// DraftStatusDraft is when the transaction is a draft
+	DraftStatusDraft string = "draft"
+
+	// DraftStatusCanceled is when the draft is canceled
+	DraftStatusCanceled string = "canceled"
+
+	// DraftStatusExpired is when the draft has expired
+	DraftStatusExpired string = "expired"
+
+	// DraftStatusComplete is when the draft transaction is complete
+	DraftStatusComplete string = "complete"
+)
+
 // DraftTransaction is a model that represents a draft transaction.
 type DraftTransaction struct {
 	// Model is a common model that contains common fields for all models.

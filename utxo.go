@@ -11,7 +11,7 @@ type UtxoPointer struct {
 	// TransactionID is a transaction id that utxo points to.
 	TransactionID string `json:"transaction_id"`
 	// OutputIndex is a output index that utxo points to.
-	OutputIndex int `json:"output_index"`
+	OutputIndex uint32 `json:"output_index"`
 }
 
 // Utxo is a model that represents a utxo.

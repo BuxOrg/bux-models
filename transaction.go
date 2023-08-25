@@ -29,7 +29,9 @@ type Transaction struct {
 	// TotalValue is a total input value.
 	TotalValue uint64 `json:"total_value"`
 	// OutputValue is a total output value.
-	OutputValue int64 `json:"output_value"`
+	OutputValue int64 `json:"output_value,omitempty"`
+	// Outputs represents all bux-transaction outputs. Will be shown only for admin.
+	Outputs map[string]int64 `json:"outputs,omitempty"`
 	// Status is a transaction status.
 	Status string `json:"status"`
 	// TransactionDirection is a transaction direction (inbound/outbound).

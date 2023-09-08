@@ -17,7 +17,7 @@ type AccessKey struct {
 	// XpubID is an access key's xpub related id.
 	XpubID string `json:"xpub_id"`
 	// RevokedAt is a time when access key was revoked.
-	RevokedAt time.Time `json:"revoked_at"`
+	RevokedAt *time.Time `json:"revoked_at,omitempty"`
 	// Key is a string representation of an access key.
-	Key string `json:"key"`
+	Key string `json:"key,omitempty"`
 }

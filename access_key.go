@@ -10,7 +10,7 @@ import (
 // AccessKey is a model that represents an access key.
 type AccessKey struct {
 	// Model is a common model that contains common fields for all models.
-	Model common.Model
+	common.Model
 
 	// ID is an access key id.
 	ID string `json:"id"`

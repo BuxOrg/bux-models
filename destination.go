@@ -9,7 +9,7 @@ import (
 // Destination is a model that represents a destination - registered in a bux-server with xpub.
 type Destination struct {
 	// Model is a common model that contains common fields for all models.
-	Model common.Model
+	common.Model
 
 	// ID is a destination id.
 	ID string `json:"id"`

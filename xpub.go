@@ -5,7 +5,7 @@ import "github.com/BuxOrg/bux-models/common"
 // Xpub is a model that represents a xpub.
 type Xpub struct {
 	// Model is a common model that contains common fields for all models.
-	Model common.Model
+	common.Model
 
 	// ID is a xpub id.
 	ID string `json:"id"`

@@ -5,7 +5,7 @@ import "github.com/BuxOrg/bux-models/common"
 // Transaction is a model that represents a transaction.
 type Transaction struct {
 	// Model is a common model that contains common fields for all models.
-	Model common.Model `json:",inline"`
+	common.Model
 	// ID is a transaction id.
 	ID string `json:"id"`
 	// Hex is a transaction hex.

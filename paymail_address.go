@@ -5,7 +5,7 @@ import "github.com/BuxOrg/bux-models/common"
 // PaymailAddress is a model that represents a paymail address.
 type PaymailAddress struct {
 	// Model is a common model that contains common fields for all models.
-	Model common.Model
+	common.Model
 
 	// ID is a paymail address id.
 	ID string `json:"id"`

@@ -11,7 +11,7 @@
 - [ ] ✅ I have provided tests for my changes.
 - [ ] 📝 I have used conventional commits.
 - [ ] 📗 I have updated any related documentation.
-- [ ] 💾 PR was issued based on the Github or Jira issue.
+- [ ] 💾 PR was issued based on the GitHub or Jira issue.
 
 <!-- 
 ## PR Title as Conventional Commit

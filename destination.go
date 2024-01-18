@@ -1,8 +1,6 @@
 package buxmodels
 
 import (
-	"time"
-
 	"github.com/BuxOrg/bux-models/common"
 )
 
@@ -27,6 +25,4 @@ type Destination struct {
 	Address string `json:"address"`
 	// DraftID is a destination's draft id.
 	DraftID string `json:"draft_id"`
-	// Monitor is a time when destination was monitored.
-	Monitor time.Time `json:"monitor"`
 }

@@ -2,13 +2,13 @@
 
 # BUX: Models
 
-[![Release](https://img.shields.io/github/release-pre/BuxOrg/bux-models.svg?logo=github&style=flat&v=1)](https://github.com/BuxOrg/bux-models/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/BuxOrg/bux-models/run-tests.yml?branch=master&logo=github&v=1)](https://github.com/BuxOrg/bux-models/actions)
-[![Report](https://goreportcard.com/badge/github.com/BuxOrg/bux-models?style=flat&v=1)](https://goreportcard.com/report/github.com/BuxOrg/bux-models)
-[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/BuxOrg/bux-models&style=flat&v=1)](https://mergify.io)
+[![Release](https://img.shields.io/github/release-pre/BuxOrg/spv-wallet-models.svg?logo=github&style=flat&v=1)](https://github.com/BuxOrg/spv-wallet-models/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/BuxOrg/spv-wallet-models/run-tests.yml?branch=master&logo=github&v=1)](https://github.com/BuxOrg/spv-wallet-models/actions)
+[![Report](https://goreportcard.com/badge/github.com/BuxOrg/spv-wallet-models?style=flat&v=1)](https://goreportcard.com/report/github.com/BuxOrg/spv-wallet-models)
+[![Mergify Status](https://img.shields.io/endpoint.svg?url=https://api.mergify.com/v1/badges/BuxOrg/spv-wallet-models&style=flat&v=1)](https://mergify.io)
 <br>
 
-[![Go](https://img.shields.io/github/go-mod/go-version/BuxOrg/bux-models?v=1)](https://golang.org/)
+[![Go](https://img.shields.io/github/go-mod/go-version/BuxOrg/spv-wallet-models?v=1)](https://golang.org/)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat&v=1)](https://github.com/RichardLitt/standard-readme)
 [![Makefile Included](https://img.shields.io/badge/Makefile-Supported%20-brightgreen?=flat&logo=probot&v=1)](Makefile)
 
@@ -39,15 +39,15 @@
 
 **go-template** requires a [supported release of Go](https://golang.org/doc/devel/release.html#policy).
 ```shell script
-go get -u github.com/BuxOrg/bux-models
+go get -u github.com/BuxOrg/spv-wallet-models
 ```
 
 <br/>
 
 ## Documentation
-View the generated [documentation](https://pkg.go.dev/github.com/BuxOrg/bux-models)
+View the generated [documentation](https://pkg.go.dev/github.com/BuxOrg/spv-wallet-models)
 
-[![GoDoc](https://godoc.org/github.com/BuxOrg/bux-models?status.svg&style=flat&v=1)](https://pkg.go.dev/github.com/BuxOrg/bux-models)
+[![GoDoc](https://godoc.org/github.com/BuxOrg/spv-wallet-models?status.svg&style=flat&v=1)](https://pkg.go.dev/github.com/BuxOrg/spv-wallet-models)
 
 <br/>
 
@@ -170,7 +170,7 @@ vet                           Run the Go vet application
 ## Usage
 
 ### Examples & Tests
-All unit tests run via [GitHub Actions](https://github.com/BuxOrg/bux-models/actions) and
+All unit tests run via [GitHub Actions](https://github.com/BuxOrg/spv-wallet-models/actions) and
 uses [Go version 1.18.x](https://golang.org/doc/go1.18). View the [configuration file](.github/workflows/run-tests.yml).
 
 <br/>
@@ -213,4 +213,4 @@ View the [contributing guidelines](.github/CODE_STANDARDS.md#3-contributing) and
 
 ## License
 
-[![License](https://img.shields.io/github/license/BuxOrg/bux-models.svg?style=flat&v=1)](LICENSE)
+[![License](https://img.shields.io/github/license/BuxOrg/spv-wallet-models.svg?style=flat&v=1)](LICENSE)

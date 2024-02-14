@@ -1,6 +1,6 @@
-package buxmodels
+package spvwalletmodels
 
-import "github.com/BuxOrg/bux-models/common"
+import "github.com/BuxOrg/spv-wallet-models/common"
 
 // Xpub is a model that represents a xpub.
 type Xpub struct {

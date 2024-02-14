@@ -1,4 +1,4 @@
-module github.com/BuxOrg/bux-models
+module github.com/BuxOrg/spv-wallet-models
 
 go 1.21
 

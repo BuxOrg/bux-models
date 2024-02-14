@@ -1,6 +1,6 @@
-package buxmodels
+package spvwalletmodels
 
-import "github.com/BuxOrg/bux-models/common"
+import "github.com/BuxOrg/spv-wallet-models/common"
 
 // PaymailAddress is a model that represents a paymail address.
 type PaymailAddress struct {

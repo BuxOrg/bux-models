@@ -1,9 +1,9 @@
-package buxmodels
+package spvwalletmodels
 
 import (
 	"time"
 
-	"github.com/BuxOrg/bux-models/common"
+	"github.com/BuxOrg/spv-wallet-models/common"
 )
 
 // SyncTransaction is a model that represents a sync transaction specific fields.

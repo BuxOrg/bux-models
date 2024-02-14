@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 // Metadata is a bux ecosystem metadata model.
 type Metadata map[string]interface{}

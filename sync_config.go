@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 // SyncConfig contains sync configuration flags.
 type SyncConfig struct {

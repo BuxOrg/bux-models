@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 // AdminStats is a model that represents admin stats.
 type AdminStats struct {

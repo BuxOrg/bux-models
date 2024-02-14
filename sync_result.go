@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 import "time"
 

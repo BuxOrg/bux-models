@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 // AuthPayload is the struct that is used to create the signature for the API call
 type AuthPayload struct {

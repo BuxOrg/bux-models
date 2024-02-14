@@ -1,6 +1,6 @@
-package buxmodels
+package spvwalletmodels
 
-import "github.com/BuxOrg/bux-models/common"
+import "github.com/BuxOrg/spv-wallet-models/common"
 
 // Transaction is a model that represents a transaction.
 type Transaction struct {

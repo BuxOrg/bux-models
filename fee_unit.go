@@ -1,4 +1,4 @@
-package buxmodels
+package spvwalletmodels
 
 // FeeUnit is a model that represents a fee unit (simplified version of fee unit from go-bt).
 type FeeUnit struct {

@@ -1,4 +1,4 @@
-// Package buxerrors contains errors that can be returned by bux-server api
+// Package buxerrors contains errors that can be returned by spv-wallet api
 package buxerrors
 
 import "errors"

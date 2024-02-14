@@ -1,4 +1,4 @@
-// Package spvwalletmodels contains all models (contracts) between bux-server api and other bux solutions
+// Package spvwalletmodels contains all models (contracts) between spv-wallet api and other bux solutions
 package spvwalletmodels
 
 import (

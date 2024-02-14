@@ -6,7 +6,7 @@ import (
 	"github.com/BuxOrg/spv-wallet-models/common"
 )
 
-// Destination is a model that represents a destination - registered in a bux-server with xpub.
+// Destination is a model that represents a destination - registered in a spv-wallet with xpub.
 type Destination struct {
 	// Model is a common model that contains common fields for all models.
 	common.Model

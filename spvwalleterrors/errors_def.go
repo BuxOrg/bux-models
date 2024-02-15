@@ -1,5 +1,5 @@
-// Package buxerrors contains errors that can be returned by spv-wallet api
-package buxerrors
+// Package spvwalleterrors contains errors that can be returned by spv-wallet api
+package spvwalleterrors
 
 import "errors"
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# BUX: Models
+# SPV Wallet: Models
 
 [![Release](https://img.shields.io/github/release-pre/bitcoin-sv/spv-wallet-models.svg?logo=github&style=flat&v=1)](https://github.com/bitcoin-sv/spv-wallet-models/releases)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/bitcoin-sv/spv-wallet-models/run-tests.yml?branch=master&logo=github&v=1)](https://github.com/bitcoin-sv/spv-wallet-models/actions)
@@ -14,8 +14,6 @@
 
 <br/>
 </div>
-
-> Get started using [BUX](https://getbux.io) in five minutes
 
 ## Table of Contents
 - [About](#about)
@@ -31,7 +29,7 @@
 <br/>
 
 ## About
-[Read more about BUX](https://getbux.io)
+SPV Wallet internal models & structs
 
 <br/>
 

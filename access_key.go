@@ -1,10 +1,10 @@
-// Package spvwalletmodels contains all models (contracts) between spv-wallet api and other bux solutions
+// Package spvwalletmodels contains all models (contracts) between spv-wallet api and other spv-wallet solutions
 package spvwalletmodels
 
 import (
 	"time"
 
-	"github.com/BuxOrg/spv-wallet-models/common"
+	"github.com/bitcoin-sv/spv-wallet-models/common"
 )
 
 // AccessKey is a model that represents an access key.

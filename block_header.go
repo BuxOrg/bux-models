@@ -3,7 +3,7 @@ package spvwalletmodels
 import (
 	"time"
 
-	"github.com/BuxOrg/spv-wallet-models/common"
+	"github.com/bitcoin-sv/spv-wallet-models/common"
 )
 
 // BlockHeader is a model that represents a BSV block header.

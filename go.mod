@@ -1,4 +1,4 @@
-module github.com/BuxOrg/spv-wallet-models
+module github.com/bitcoin-sv/spv-wallet-models
 
 go 1.21
 
